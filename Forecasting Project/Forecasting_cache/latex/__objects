@@ -1,0 +1,12 @@
+data	Maryland	Maryland_ts	Maryland_unemployment
+unnamed-chunk-1	Maryland_ts_log
+unnamed-chunk-2	dcmp
+unnamed-chunk-3	fit	maryland_train
+unnamed-chunk-4	
+model_run	AR2	auto_arima	end	Maryland_ts	performance	res2	rmse_AR2	rmse_auto	start
+unnamed-chunk-5	
+unnamed-chunk-6	fit	forecasts_NN
+unnamed-chunk-7	fit0	train0
+nnar_fixed_run	end	fit0	my_nnar_fixed	nnforecast	performance	rmse_nnar	start	train0
+nnar_adaptive	end	nn_adapt_forecast	nnar_adaptive	performance	rmse_nnar_adaptive	start
+nnar_dyanmic	end	performance	res_dyn	rmse_nnar_dyn	start

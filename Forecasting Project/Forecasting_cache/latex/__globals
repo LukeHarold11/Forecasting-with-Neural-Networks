@@ -1,0 +1,12 @@
+data	
+unnamed-chunk-1	Maryland
+unnamed-chunk-2	Maryland_ts_log
+unnamed-chunk-3	Maryland_ts_log
+unnamed-chunk-4	fit
+model_run	Maryland_unemployment	recursive_forecast_multi
+unnamed-chunk-5	res2
+unnamed-chunk-6	Maryland_ts_log
+unnamed-chunk-7	Maryland_ts
+nnar_fixed_run	Maryland_ts	recursive_forecast_multi
+nnar_adaptive	Maryland_ts	recursive_forecast_multi
+nnar_dyanmic	dynamic_nnar_greedy	Maryland_ts
